@@ -1,0 +1,37 @@
+@media screen and (max-width: 640px) {
+.text-contact{
+    text-align: center;
+}
+
+}
+
+@media screen and (max-width: 1007px) {
+    
+.box{
+    margin: auto;
+    text-align: left;
+}
+
+.align{
+    text-align: center;
+    
+}
+
+.align-btn{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.desc{
+    margin: auto;
+    max-width: 100%;
+}
+
+}
+
+@media screen and (min-width: 1008px) {
+  
+
+}
+
